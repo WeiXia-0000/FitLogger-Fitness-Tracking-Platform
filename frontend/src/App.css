@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  height: 200vh;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.NavBar {
+  height: 6vh;
+  /* background-color:#4158D0; */
+  /* background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%); */
+}
+
+.ViewButton {
+  position: relative;
+  top: 1vh;
+  left: -30vw;
+  height: 100%;
+  width: 8vw;
+  border-radius: 10px;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.5vh;
+}
+
+.LoginButton {
+  position: relative;
+  top: 1vh;
+  left: 25vw;
+  /* right: -30vh; */
+  height: 100%;
+  width: 8vw;
+  border-radius: 10px;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.5vh;
+}
+
+button {
+  background-color: #8EC5FC;
+}
+
+.bar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+@media only screen and (max-width: 600px) {
+  .NavBar {
+    height: 8vh;
+  }
+
+  .ViewButton {
+    left: -6vw;
+    width: 19vw;
+  }
+
+  .LoginButton {
+    width: 20vw;
+    left: 6vw;
+  }
+}

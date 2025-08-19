@@ -1,0 +1,28 @@
+image: node:latest
+
+variables:
+  PUBLIC_URL: /cs409-fp-frontend
+
+cache:
+  paths:
+  - node_modules
+
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+
+  script:
+    - npm install
+    - CI=false npm run build 
+    - mv public _public
+    - mv build public
+    - cp public/index.html public/404.html
+
+  artifacts:
+    paths:
+    - public
+
+  only:
+    - master
