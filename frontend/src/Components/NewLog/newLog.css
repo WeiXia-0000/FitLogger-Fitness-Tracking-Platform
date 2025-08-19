@@ -1,0 +1,106 @@
+button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.newlog {
+    position: relative;
+    top: 20vh;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#opsNewLog {
+    position: relative;
+    display: grid;
+    grid-template-columns: 25% 50% 12.5% 12.5%;
+    height: 100px;
+    top: 50px;
+    left: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#labelsNewLog {
+    display: grid;
+    position: relative;
+    top: 10px;
+    right: -30px;
+}
+
+#search, #reset {
+    height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#reset {
+    position: relative;
+    right: 10px;
+}
+
+#createLog {
+    position: relative;
+    top: 15px;
+    height:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.results {
+    font-size: 13px;
+    position: relative;
+    top: -120px;
+    right: -50px;
+    display: grid;
+    grid-template-columns: repeat(4, 20%);
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .newlog {
+        top: 5vh;
+        grid-template-columns: 100%;
+        grid-template-rows: 40%, 60%;
+    }
+
+    #opsNewLog {
+        position: relative;
+        display: grid;
+        grid-template-columns: 25% 50% 12.5% 12.5%;
+        height: 100px;
+        top: 10px;
+        left: -10px;
+    }
+
+    #labelsNewLog {
+        top: 10px;
+        right: -10px;
+    }
+
+    #testFields {
+        width: 150px;
+    }
+
+    #search {
+        position: relative;
+        right: 40px;
+        font-size: 10px;
+    }
+
+    #reset {
+        font-size: 10px;
+        right: 35px;
+    }
+
+    #createLog {
+        top: 17px;
+        right: 40px;
+    }
+
+    .results {
+        font-size: 12px;
+        position: relative;
+        top: 50px;
+        left: 0px;
+        grid-template-columns: repeat(3, 100%);
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Bent-over Row",
+    "bodyParts": ["Arms", "Back", "Shoulders"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/12-1.jpg",
+    "description": "Grip a barbell with palms down so that the wrists, elbows, and shoulders are in a straight line. Lift the bar from the rack, bend forward at the hips, and keep the back straight with a slight bend in the knees. Lower the bar towards the floor until the elbows are completely straight, and keep the back flat as the bar is pulled towards the belly button. Then slowly lower the bar to the starting position and repeat."
+}
+
+{
+    "name": "Back Squat",
+    "bodyParts": ["Butt/Hips", "Legs - Thighs"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/11-1.jpg",
+    "description": "Place a barbell in a rack just below shoulder-height. Dip under the bar to put it behind the neck across the top of the back, and grip the bar with the hands wider than shoulder-width apart. Lift the chest up and squeeze the shoulder blades together to keep the straight back throughout the entire movement. Stand up to bring the bar off the rack and step backwards, then place the feet so that they are a little wider than shoulder-width apart. Sit back into hips and keep the back straight and the chest up, squatting down so the hips are below the knees. From the bottom of the squat, press feet into the ground and push hips forward to return to the top of the standing position."
+}
+
+{
+    "name": "Bicep Curl",
+    "bodyParts": ["Arms"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/70-1.jpg",
+    "description": "Hold the barbell with both hands facing up so the wrists, elbows, and shoulders are in a straight line about shoulder-width apart. Lift the barbell toward the shoulders while bending the elbows and keeping them next to the middle of the body. Slowly lower the weight to return to the starting position. Keep chest still, using just the arms for the movement."
+}
+
+{
+    "name": "Chest Press",
+    "bodyParts": ["Arms", "Chest", "Shoulders"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/5-1.jpg",
+    "description": "Lie face up on a flat bench, and grip a barbell with the hands slightly wider than shoulder-width. Press the feet into the ground and the hips into the bench while lifting the bar off the rack. Slowly lower the bar to the chest by allowing the elbows to bend out to the side. Stop when the elbows are just below the bench, and press feet into the floor to press the weight straight up to return to the starting position."
+}
+
+{
+    "name": "Calf Raises",
+    "bodyParts": ["Legs - Calves and Shins"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/51-1.jpg",
+    "description": "Place a barbell in a rack at about shoulder-height. Dip under the bar so that it rests behind the neck across the top of the back and shoulder blades, and grip the bar with the hands just outside the shoulders. Raise the chest and squeeze the shoulder blades together to maintain a straight back throughout the entire movement. Stand up to bring the bar off the rack and step backwards, placing both feet approximately hip-width apart and squarely set on the floor with the toes pointed forward. (Tip: for more development on the outside of calves point feet slightly inwards.) Keep a slight bend in knees, and press the toes into the ground while lifting the heels up. Pause at the top, and slowly roll the heels back down to the floor, then pause again and repeat for the desired number of repetitions."
+}
+
+{
+    "name": "Deadlift",
+    "bodyParts": ["Full Body/Integrated"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/6-1.jpg",
+    "description": "Stand behind the barbell with the feet about shoulder-width apart, the toes slightly rotated out, and the shins almost touching the bar. Sit back into the hips slightly while keeping a straight back so that the chest is lifted upward, and bend forward to grip the bar in an over-under grip with one palm facing up and the other facing down. Squeeze the bar in the hands and sink back onto the hips while pressing the feet into the floor. Keeping the back flat, push the hips forward to move to standing position. Finish standing in a tall position with the shoulders pulled back and the legs straight. Return to the starting position by shifting the weight back into the hips and keep the back straight while allowing the knees to bend. When this movement is done properly, the glutes and the back of the thighs should feel the work, NOT the back."
+}
+
+{
+    "name": "Decline Plank",
+    "bodyParts": ["Abs"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/304-1.jpg",
+    "description": "With the feet close together on top of the BOSU dome, place the elbows on the ground underneath the shoulders with the hands in fists. Squeeze the muscles of the stomach and glute, and keep the body in a straight line from head to heels. Hold this position for the desired amount of time."
+}
+
+{
+    "name": "Bulgarian Split Squat",
+    "bodyParts": ["Butt/Hips"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/366-1.jpg",
+    "description": "Start with the feet hip-width apart, with the right foot forward and the left foot placed back behind the body on a bench or box that is about knee-height. Hold a dumbbell in both hands in a vertical position in front of the chest and keep the elbows close to the rib cage during the exercise. Keep the back straight while lowering the left knee towards the floor. Before the left knee hits the floor, press the right foot into the ground, pull back on the right knee, and push the top of the left foot into the box to return to standing."
+}
+
+{
+    "name": "Glute Bridge",
+    "bodyParts": ["Abs", "Butt/Hips", "Legs - Thighs"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/66-1.jpg",
+    "description": "Lying face up, bend the knees and place the feet on top of a stability ball. Keeping the ball still, press through the heels and raise the hips into the air by squeezing the glute muscles. Rest on the shoulders and the upper back while keeping the body in a straight line from the knees to the head. Slowly lower the hips back down to the ground, keeping the ball still."
+}
+
+{
+    "name": "Goblet Squat",
+    "bodyParts": ["Butt/Hips", "Legs - Thighs"],
+    "picURL": "https://acewebcontent.azureedge.net/exercise-library/large/362-1.jpg",
+    "description": "Stand with the feet about shoulder-width apart, and hold a dumbbell in a vertical position directly in front of the chest. Keep the elbows close to the rib cage and the back straight while lowering into a squat. Continue lowering until the hips are below the knees, then push both feet into the floor and to return back to the original standing position."
+}

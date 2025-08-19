@@ -1,0 +1,79 @@
+.iconButton {
+    width: 100%;
+    border-radius: 5px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.iconButton:hover {
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+
+.iconPicture {
+    margin-top: 5px;
+}
+
+.iconInfo {
+    /* margin: 0 0 0 0; */
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+.LibraryContainer {
+    position: absolute;
+    width: 100%;
+    top: 12%;
+}
+
+.typeFilter {
+    height: 40px;
+}
+
+.typeButton {
+    height: 100%;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: px;
+    border-radius: 10px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.exerciseGallery {
+    position: absolute;
+    display: grid;
+    top: 10vh;
+    grid-template-columns: repeat(5, 19%);
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .exerciseGallery {
+        grid-template-columns: repeat(3, 31%);
+        gap: 5px;
+        top: 15vh;
+    }
+
+    .iconInfo {
+        font-size: 8px;
+    }
+
+    .typeButton {
+        font-size: 12px;
+    }
+}

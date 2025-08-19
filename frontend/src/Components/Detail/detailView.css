@@ -1,0 +1,59 @@
+.DetailViewContainer {
+    position: absolute;
+    display: grid;
+
+    /* display: flex;
+    width: 60%;
+    margin-top: 2vh;
+    /* height: 100%; */
+    /* flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; */
+    margin: auto;
+    top: 20%;
+
+    grid-template-columns: 90% 50%;
+}
+
+.pictureContainer img {
+    max-width:400px;
+    width: auto;
+    height: auto;
+}
+
+.descriptionContainer {
+    /* width: 100%; */
+    width: 600px;
+    text-align: start;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2vh;
+}
+
+@media only screen and (max-width: 600px) {
+    .DetailViewContainer {
+        position: absolute;
+        display: grid;
+        height: 100%;
+        top: 20%;
+        grid-template-rows: 50%, 50%;
+        grid-template-columns: 100%;
+    }
+
+    .pictureContainer img {
+        position: relative;
+        left: 40px;
+        max-height: 200px;
+        max-width:200px;
+        width: auto;
+        height: auto;
+        top: -32px;
+    }
+
+    .descriptionContainer {
+        position: relative;
+        width: 300px;
+        text-align: center;
+        left: 40px;
+    }
+}
