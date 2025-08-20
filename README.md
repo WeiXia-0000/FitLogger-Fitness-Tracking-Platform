@@ -215,7 +215,3 @@ python3 backend/database_scripts/dbFill.py -u "localhost" -p 4000 -n 20 -t 100
 - [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [Express.js documentation](https://expressjs.com/)
 - [Mongoose documentation](https://mongoosejs.com/)
-
-## License
-
-This project is licensed under the MIT License.
